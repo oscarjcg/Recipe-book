@@ -1,4 +1,4 @@
-# Recipe Book
+# Recipe Book - ANguar 8 project
 
 ## Firebase hosting
 
