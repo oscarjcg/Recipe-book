@@ -1,4 +1,4 @@
-# Recipe Book - ANguar 8 project
+# Recipe Book - Angular 8 project
 
 ## Firebase hosting
 
