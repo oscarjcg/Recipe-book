@@ -1,4 +1,8 @@
-# Project1
+# Recipe Book
+
+## Firebase hosting
+
+Web: [https://angular-menu-project.firebaseapp.com](https://angular-menu-project.firebaseapp.com)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
